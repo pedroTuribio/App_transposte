@@ -1,0 +1,12 @@
+name: design_system
+description: Design System Yellow (tokens, componentes e tema) do app de transporte estudantil.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+  flutter: '>=3.27.0'
+
+dependencies:
+  flutter:
+    sdk: flutter

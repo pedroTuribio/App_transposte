@@ -1,0 +1,10 @@
+name: core
+description: Modelos, API e repositórios do app de transporte estudantil.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  http: ^1.2.2
